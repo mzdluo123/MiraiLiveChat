@@ -1,5 +1,5 @@
-# mirai-console-plugin-template
+# MiraiLiveChat
 
-[Mirai Console](https://github.com/mamoe/mirai-console) 插件模板, 使用 Kotlin + Gradle.
+基于Mirai的OBS直播辅助
 
-[如何使用](https://github.com/project-mirai/how-to-use-plugin-template)
+请在OBS内添加文本，来源选择live.txt对应路径，之后在下面选择聊天模式
